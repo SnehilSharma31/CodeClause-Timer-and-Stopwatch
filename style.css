@@ -6,8 +6,7 @@
 body {
     color: #DAD6D6;
     font-family: digital-7;
-    text-align: center;  
-    /* background-color: #171A21; */
+    text-align: center;
     background-image: url(clock.svg);
     background-repeat: no-repeat;
     background-position: center;
