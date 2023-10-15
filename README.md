@@ -1,6 +1,6 @@
 # Timer & Stopwatch
 
-## Deployed Website Link -> https://snehilsharma31.github.io/CodeClause-Timer-and-Stopwatch/
+## Deployed Website Link -> https://snehilsharma31.github.io/Timer-and-Stopwatch/
 
 ◉ This Repo showcases my project, that I've created for my Internship task at CodeClause.
 
